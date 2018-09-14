@@ -3,6 +3,7 @@ ishell is an interactive shell library for creating interactive cli applications
 
 [![Documentation](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/abiosoft/ishell)
 [![Go Report Card](https://goreportcard.com/badge/github.com/abiosoft/ishell)](https://goreportcard.com/report/github.com/abiosoft/ishell)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fishell.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fishell?ref=badge_shield)
 
 ## Older version
 The current master is not backward compatible with older version. Kindly change your import path to `gopkg.in/abiosoft/ishell.v1`.
@@ -307,6 +308,9 @@ ishell is in active development and can still change significantly.
 
 ## License
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fishell.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fishell?ref=badge_large)
 
 ## Credits
 Library | Use
